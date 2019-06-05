@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "recordStatus": "active",
+    "productNK": "Nk1",
+    "endDate": 1555382742777,
+    "endedByAssociate": true,
+    "effectiveDate": 1455382742777,
+    "enteredByAssociate": true,
+    "createDate": 1455382742777,
+    "NonExistColumn1": 1
+  },
+  {
+    "recordStatus": "NOT VALID",
+    "productNK": "Nk2",
+    "endDate": 1555382742777,
+    "endedByAssociate": true,
+    "effectiveDate": 1455482742777,
+    "enteredByAssociate": false,
+    "createDate": 1455382742777,
+    "NonExistColumn1": 2
+  },
+  {
+    "recordStatus": "invalid",
+    "productNK": "Nk3",
+    "endDate": 1555382742777,
+    "endedByAssociate": "",
+    "effectiveDate": 1455582742777,
+    "enteredByAssociate": true,
+    "createDate": 1455382742777,
+    "NonExistColumn1": 3
+  },
+  {
+    "id": "",
+    "recordStatus": "active",
+    "productNK": "Nk4",
+    "endDate": 1555382742777,
+    "endedByAssociate": true,
+    "enteredByAssociate": false,
+    "createDate": 1455352742777,
+    "NonExistColumn1": ""
+  },
+  {
+    "id": "2",
+    "recordStatus": "invalid",
+    "productNK": "Nk5",
+    "endDate": 1555382742777,
+    "endedByAssociate": false,
+    "effectiveDate": 1455382742777,
+    "enteredByAssociate": "",
+    "createDate": 1455342742777,
+    "NonExistColumn1": ""
+  },
+  {
+    "recordStatus": "active",
+    "endDate": 1555382742777,
+    "endedByAssociate": false,
+    "effectiveDate": 1455882742777,
+    "enteredByAssociate": false,
+    "createDate": 1455332742777,
+    "NonExistColumn1": 8
+  },
+  {
+    "id": "3",
+    "recordStatus": "active",
+    "productNK": "Nk7",
+    "endDate": "",
+    "endedByAssociate": "NOT VALID",
+    "effectiveDate": 1455982742777,
+    "enteredByAssociate": true,
+    "createDate": 1455282742777,
+    "NonExistColumn1": 9
+  },
+  {
+    "id": "4",
+    "recordStatus": "active",
+    "productNK": "Nk7",
+    "endDate": 1555382742777,
+    "endedByAssociate": "",
+    "effectiveDate": "NOT VALID",
+    "enteredByAssociate": true,
+    "createDate": 1455282742777,
+    "NonExistColumn1": 9
+  }
+]

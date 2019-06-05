@@ -1,0 +1,87 @@
+[
+  {
+    "recordStatus": "active",
+    "productNK": "Nk1",
+    "displayType": "Bin",
+    "endDate": 1555382742777,
+    "endedByAssociate": true,
+    "effectiveDate": 1455382742777,
+    "enteredByAssociate": true,
+    "createDate": 145538274277,
+    "NonExistColumn1": 1
+  },
+  {
+    "recordStatus": "NOT VALID",
+    "productNK": "Nk2",
+    "displayType": "Bin",
+    "endDate": 1555382742777,
+    "endedByAssociate": true,
+    "effectiveDate": 1455482742777,
+    "enteredByAssociate": false,
+    "createDate": 1455382742777,
+    "NonExistColumn1": 2
+  },
+  {
+    "recordStatus": "invalid",
+    "productNK": "Nk3",
+    "endDate": 1555382742777,
+    "effectiveDate": 1455582742777,
+    "enteredByAssociate": true,
+    "createDate": 1455382742777,
+    "NonExistColumn1": 3
+  },
+  {
+    "recordStatus": "active",
+    "productNK": "Nk4",
+    "displayType": "Endcap",
+    "endDate": 1555382742777,
+    "endedByAssociate": true,
+    "effectiveDate": "",
+    "enteredByAssociate": false,
+    "createDate": 1455352742777
+  },
+  {
+    "recordStatus": "invalid",
+    "productNK": "Nk5",
+    "displayType": "",
+    "endDate": 1555382742777,
+    "endedByAssociate": false,
+    "effectiveDate": 1455382742777,
+    "enteredByAssociate": "",
+    "createDate": 1455342742777,
+    "NonExistColumn1": ""
+  },
+  {
+    "recordStatus": "active",
+    "productNK": "",
+    "displayType": "Endcap",
+    "endDate": 1555382742777,
+    "endedByAssociate": false,
+    "effectiveDate": 1455882742777,
+    "enteredByAssociate": false,
+    "createDate": 1455332742777,
+    "NonExistColumn1": 8
+  },
+  {
+    "recordStatus": "active",
+    "productNK": "Nk7",
+    "displayType": "Bin",
+    "endDate": "NOT VALID",
+    "endedByAssociate": "",
+    "effectiveDate": 1455982742777,
+    "enteredByAssociate": true,
+    "createDate": 1455282742777,
+    "NonExistColumn1": 9
+  },
+  {
+    "recordStatus": "active",
+    "productNK": "",
+    "displayType": "Endcap",
+    "endDate": 1555382742777,
+    "endedByAssociate": "NOT VALID",
+    "effectiveDate": 1455882742777,
+    "enteredByAssociate": false,
+    "createDate": 1455332742777,
+    "NonExistColumn1": ""
+  }
+]
